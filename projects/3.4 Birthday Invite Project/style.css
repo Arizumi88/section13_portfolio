@@ -1,0 +1,45 @@
+.birthday {
+    font-family: "Mountains of Christmas", serif;
+  font-weight: 700;
+  font-style: normal;
+    font-size: 80px;
+    color: #fff;
+    text-shadow: 2px 2px 4px black;
+  }
+
+h3 {
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 40px !important;
+
+}
+
+.header {
+    background-color: #FFC8C8;
+}
+
+body {
+    background-color: #FFF0F5 !important;
+    
+}
+
+header {
+    background-color: #3C3D37;
+    
+}
+
+.nav-link {
+    color: #ffd9b9 !important;
+    
+}
+
+.list {
+    font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 20px;
+  
+}
